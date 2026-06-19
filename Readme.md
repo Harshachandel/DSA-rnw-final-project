@@ -160,7 +160,7 @@ This project helps in understanding:
 
 ## 👨‍💻 Author
 
-**Abhishek Khatri**
+**Harsha Chandel**
 
 Full Stack Developer
 
